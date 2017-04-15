@@ -4,9 +4,10 @@ Ensemble de cahiers de programmes permettant d'aborder le codage et la programma
 
 Cet outil peut aussi être utilisé pour produire des traces de l'apprentissage dans la même interface web. 
 
-Deux thèmes sont abordés :
+Trois thèmes sont abordés :
 
  * Les jeux de lumière
+ * Un dispositif mixte : Led et Capteurs
  * Une microstation météorologique
 
 Le matériel utilisé est représenté ci-dessous :
