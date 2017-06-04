@@ -11,7 +11,7 @@ ou objets connectés et sur l'outil jupyterhub fournissant un serveur de session
 
 Les cahiers de ce dossier ont pour objectif d'assurer une formation pour des enseignants de mathématiques 
 
-qui dans un premer temps ne souhaitent pas utiliser l'infrastructure d'exploitation de capteurs météo ou autres (sons, UV, etc) 
+qui dans un premier temps ne souhaitent pas utiliser l'infrastructure d'exploitation de capteurs météo ou autres (sons, UV, etc) 
 
 pour aborder la programmation en seconde. 
 
@@ -20,10 +20,10 @@ Tout le reste du dispositif et de la démarche Tremplin restent exploitables.
 
 Ce dossier contient des fichiers qui sont liés au livrets du Dossier exclusivement. 
 
-Il était donc imortant de les séparer du corpus de travail existant.
+Il était donc important de les séparer du corpus de travail existant.
 
 
-## Le cas de l'implémentation au Lycée Corneille et au lycee Camille Saint Sëns de l'académie de Rouen
+## Le cas de l'implémentation au Lycée Corneille et au lycee Camille Saint Saëns de l'académie de Rouen
 
 
 Dans l'académie de Rouen l'arrivée de la programmation python en seconde génère un changement de positionnement 
@@ -48,9 +48,4 @@ Un cahier Latex : Même chose que pour markdown mais j'ai parlé de Jupyterhub �
 
 Un Cahier lié au projet Amiens PythonEdu : Ce projet a failli conduire à l'enfermement de mon bahut dans une installation d'un .exe mais il semble que les exercices que contient leur pdf aient du sens .... pour montrer l'intérêt de Jupyterhub j'ai reproduit le Chapitre 1 
 
-
-
-Les cahiers à venir seront sans doute des cahiers orientés ICN Seconde et Première .... sans capteurs. 
-
-Pour ces Enseignements l'utilisation des capteurs sera faite à partir des Cahiers placés  dans les autres dossiers de ce dépôt.
 
