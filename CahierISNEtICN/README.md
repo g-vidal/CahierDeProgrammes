@@ -47,5 +47,3 @@ Un cahier qui présente les balises markdown : ne sert pas à grand chose mais �
 Un cahier Latex : Même chose que pour markdown mais j'ai parlé de Jupyterhub à Corneille et du coup le Latex semblait être une accroche  pour les profs de prépa et leurs élèves.
 
 Un Cahier lié au projet Amiens PythonEdu : Ce projet a failli conduire à l'enfermement de mon bahut dans une installation d'un .exe mais il semble que les exercices que contient leur pdf aient du sens .... pour montrer l'intérêt de Jupyterhub j'ai reproduit le Chapitre 1 
-
-
