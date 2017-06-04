@@ -1,22 +1,56 @@
 # CahierISNEtICN
-Une tentative de création de proof of concept de Jupyter vs PythonEdu
 
-## raisons de la création de ce dépôt 
+Création de proof of concept  Jupyter / Jupyterhub à comparer à PythonEdu
 
-Le lien avec le travail "meteo et climat : tremplin pour l'enseignement des sciences" est trop distendu pour que ces cahiers de programmation puissent y être intégrés. 
+## raisons de la création de ce dossier à l'intérieur des CahierDeProgrammes 
 
-Il faut donc que je parviennes à publier sans polluer le travail de programmation centré sur les leds, et les capteurs météo.
+Le travail "meteo et climat : tremplin pour l'enseignement des sciences" s'appuie sur l'utilisation de nano-ordinateurs 
 
-A Rouen l'arrivée de la programmation python en seconde génère un changement de positionnement des équipes de mathématiques, il me semble essentiel de présenter jupyter et jupyterhub dans la mesure où ces outils sont utilisé dans le projet Tremplin et qu'ils sont réeelement puissant et stables. 
+ou objets connectés et sur l'outil jupyterhub fournissant un serveur de sessions Jupyter.  
 
-##changement de positionnement - 1 Juin 2017
 
-Suite aux remarques de Gérard qui constate que ce dépôt ne fait que générer de la dispersion.
+Les cahiers de ce dossier ont pour objectif d'assurer une formation pour des enseignants de mathématiques 
 
-Il faut revenir à **un et un seul dépôt** pour que les collègues disposent en un seul git clone de tout le travail de Tremplin.
+qui dans un premer temps ne souhaitent pas utiliser l'infrastructure d'exploitation de capteurs météo ou autres (sons, UV, etc) 
 
-J'ai donc mis l'ensemble de ces cahiers dans un sous dossier en espérant que cette fois
-ce mode de publication sera opérationnel.
+pour aborder la programmation en seconde. 
 
-J'ai fait un sous dossier à cause des fichiers csv, db et .py qui sont associés aux cahiers et qui n'ont rien à voir avec les autres cahiers de programme existants.
+Tout le reste du dispositif et de la démarche Tremplin restent exploitables. 
+
+
+Ce dossier contient des fichiers qui sont liés au livrets du Dossier exclusivement. 
+
+Il était donc imortant de les séparer du corpus de travail existant.
+
+
+## Le cas de l'implémentation au Lycée Corneille et au lycee Camille Saint Sëns de l'académie de Rouen
+
+
+Dans l'académie de Rouen l'arrivée de la programmation python en seconde génère un changement de positionnement 
+
+des équipes de mathématiques, il semble essentiel de présenter jupyter notebook  et jupyterhub dans la mesure où 
+
+ces outils sont largement utilisés dans la communauté scientifique et dans l'enseignement supérieur et qu'ils ont été 
+
+testés dans le projet Tremplin. 
+
+Ces outils  sont reconnus comme puissants et stables. 
+
+
+## Contenu des cahiers 
+
+
+Un cahier qui exploite le module Geopy : Objectif, générer une table ou un fichier qui permette quand on travaille avec des établissments de créer la ressource pour faire un shapefile dans QGIS.
+
+Un cahier qui présente les balises markdown : ne sert pas à grand chose mais évite le passage par l'excellente page de github le va et vient entre "ressource en ligne" et "cahier" ne semblant pas aller de soi pour les usagers testeurs.
+
+Un cahier Latex : Même chose que pour markdown mais j'ai parlé de Jupyterhub à Corneille et du coup le Latex semblait être une accroche  pour les profs de prépa et leurs élèves.
+
+Un Cahier lié au projet Amiens PythonEdu : Ce projet a failli conduire à l'enfermement de mon bahut dans une installation d'un .exe mais il semble que les exercices que contient leur pdf aient du sens .... pour montrer l'intérêt de Jupyterhub j'ai reproduit le Chapitre 1 
+
+
+
+Les cahiers à venir seront sans doute des cahiers orientés ICN Seconde et Première .... sans capteurs. 
+
+Pour ces Enseignements l'utilisation des capteurs sera faite à partir des Cahiers placés  dans les autres dossiers de ce dépôt.
 
