@@ -1,2 +1,5 @@
 # Do not follow checkpoints
 .ipynb_checkpoints
+
+# Do not follow .tex files 
+*.tex
