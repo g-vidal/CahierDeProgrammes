@@ -1,9 +1,6 @@
 # Cahier de Programmes
 
-
-|  |
-| ------------------------------------------------------- | 
-| ![Tremplin des sciences](images/tremplinColorSmall.png) | 
+ ![Tremplin des sciences](images/tremplinColorSmall.png) 
 
 
 
