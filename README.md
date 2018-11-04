@@ -20,6 +20,6 @@ Le matériel utilisé est représenté ci-dessous :
  * une plaque de développement avec 3 diodes rouge jaune vert et une diode RGB
  * une plaque de développement portant un ensemble de capteurs météorologiques sur un bus 
 
-![Matériel utilisé pour ce projet](images/matériel.png)
+![Matériel utilisé pour ce projet](images/materiel.png)
 
 
